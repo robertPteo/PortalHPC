@@ -1,0 +1,29 @@
+{
+  "name": "portalhpc",
+  "version": "1.0.0",
+  "description": "This is portal hpc ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertPteo/PortalHPC.git"
+  },
+  "keywords": [
+    "portal",
+    "hpc"
+  ],
+  "author": "Robert Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertPteo/PortalHPC/issues"
+  },
+  "homepage": "https://github.com/robertPteo/PortalHPC#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jade": "^1.11.0",
+    "morgan": "^1.10.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
